@@ -17,7 +17,7 @@ while name != "":
     # Ask again at the end of the loop
     name = input("Name: ")
 
-# using is_vintage and loop through the list
+# using is_vintage and loop through the list.
 print("\nThese are my guitars:")
 
 for guitar in guitars:

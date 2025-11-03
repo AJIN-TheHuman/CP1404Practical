@@ -6,7 +6,7 @@ Replace each `...` with your meaningful answer.
 ## What have you changed about your process in this subject based on your personal reflection?
 
 ...I’ve started planning my code more before writing and testing it step by step, instead of rushing. And then, also commit 
-step by step. 
+step by step. .
 
 ## What do you still need to change in terms of your approach, application, time on task, attitude, etc.?
 

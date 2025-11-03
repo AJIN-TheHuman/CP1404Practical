@@ -1,5 +1,5 @@
 """
-Estimated time=20mins
+Estimated time=20mins.
 Actual time=15mins
 """
 
