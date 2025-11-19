@@ -8,6 +8,7 @@ I am a student from CP-1404 (Programming 2).My name is Zaw Latt Naung. I am curr
 
 ## 3 Main Lessons I learnt about clean code
 
+
 - Consistent Formatting**: Using proper indentation, spacing, and structure makes the code more readable and professional.
 - Modular Design: Breaking down code into reusable functions and classes improves maintainability and testing.
 - Code Comments and Docstrings: Writing helpful comments and docstrings explains the purpose of code blocks and helps others (and future me) understand the logic.

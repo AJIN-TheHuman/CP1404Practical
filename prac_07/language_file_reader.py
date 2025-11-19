@@ -1,7 +1,7 @@
 """
 CP1404/CP5632 Practical
 File and class example - opens/reads a file, stores in objects of custom class
-Updated to include pointer arithmetic support
+Updated to include pointer arithmetic support.
 """
 
 from programming_language import ProgrammingLanguage

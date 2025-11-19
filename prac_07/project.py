@@ -1,7 +1,7 @@
 import datetime
 
 class Project:
-    """Represent a project with all necessary attribute"""
+    """Represent a project with all necessary attribute."""
 
     def __init__(self, name, start_date, priority, cost_estimate, completion_percentage):
         self.name = name
