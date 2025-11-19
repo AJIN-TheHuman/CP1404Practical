@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Programming Language class with pointer arithmetic support
+Programming Language class with pointer arithmetic support.
 """
 
 class ProgrammingLanguage:
